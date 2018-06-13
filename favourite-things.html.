@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>my pet website!</title>
+  </head>
+  <body>
+    <h1> SPOKIES WEBSITE</h1>
+  </body>
+    <h2> written with a little guidance from moringa school</h2>
+    <p>hello world!</p>
+    <p> Welcome to my first web page in life</p>
+    <h3> Here are some of the things my dog likes</h3>
+    <ul>
+        <li> Taking an evening walk</li>
+        <li>Taking a bubble bath</li>
+        <li>Playing frisebie</li
+      <p>Thank you <strong> moringa</strong> for all that</p>
+      <p> This page was written by <em> ssemazzi justus </em> at outbox</p>
+      <p> you can check out my github to see how good iam <a href="https://github.com/github"</a> here </p>
+    </p>
+    <p> this is how spokie looks like  </p>
+        <img src="images/mydog.jpeg">
+    </ul>
+    </body>
+</html>
